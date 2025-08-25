@@ -1,0 +1,5 @@
+# Ignorar pasta de arquivos compilados:
+__pycache__/
+
+# Ignorar arquivos:
+
